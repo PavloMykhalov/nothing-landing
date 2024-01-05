@@ -8,7 +8,7 @@ This landing page was developed using the following technologies:
 
   - HTML
   - CSS
-  - SASS (preprocessor for CSS)
+  - SCSS (preprocessor for CSS)
 
 # Preview
 
