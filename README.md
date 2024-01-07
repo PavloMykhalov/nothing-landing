@@ -12,7 +12,7 @@ This landing page was developed using the following technologies:
 
 # Preview
 
-  You can view a preview of the project by the link:
+  You can view a preview of the project by the link: https://pavlomykhalov.github.io/nothing-landing/
 
 # Mockup
 
