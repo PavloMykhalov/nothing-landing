@@ -16,7 +16,7 @@ This landing page was developed using the following technologies:
 
 # Mockup
 
-  Checkout the project's design mockup here:
+  Checkout the project's design mockup here: https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6817-211&mode=design&t=BTEtYWBLyQfrmv56-0
 
 # Getting Started
 
